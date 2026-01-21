@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#000" opacity="0.1"/>
+  
+  <!-- Vercel triangle logo style -->
+  <polygon points="64,20 110,100 18,100" fill="#0070F3" opacity="0.9"/>
+  
+  <!-- Rocket accent -->
+  <circle cx="64" cy="50" r="8" fill="#fff"/>
+  <polygon points="64,55 60,65 68,65" fill="#fff"/>
+  
+  <!-- Deployment indicator (small circle at bottom) -->
+  <circle cx="64" cy="95" r="4" fill="#10B981"/>
+</svg>
